@@ -13,16 +13,16 @@
 
 |Tập        |
 | :--------:|      
-| [EP1]()   |        
-| [EP2]()   | 
-| [EP3]()   | 
-| [EP4]()   | 
-| [EP5]()   | 
-| [EP6]()   | 
-| [EP7]()   | 
-| [EP8]()   | 
-| [EP9]()   | 
-| [EP10]()  | 
-| [EP11]()  | 
-| [EP12]()  | 
-| [EP13]()  | 
+| [EP1](http://tuilakhanh.me/tpn/bokutachi/ep1.html)   |        
+| [EP2](http://tuilakhanh.me/tpn/bokutachi/ep2.html)   | 
+| [EP3](http://tuilakhanh.me/tpn/bokutachi/ep3.html)   | 
+| [EP4](http://tuilakhanh.me/tpn/bokutachi/ep4.html)   | 
+| [EP5](http://tuilakhanh.me/tpn/bokutachi/ep5.html)   | 
+| [EP6](http://tuilakhanh.me/tpn/bokutachi/ep6.html)   | 
+| [EP7](http://tuilakhanh.me/tpn/bokutachi/ep7.html)   | 
+| [EP8](http://tuilakhanh.me/tpn/bokutachi/ep8.html)   | 
+| [EP9](http://tuilakhanh.me/tpn/bokutachi/ep9.html)   | 
+| [EP10](http://tuilakhanh.me/tpn/bokutachi/ep10.html)  | 
+| [EP11](http://tuilakhanh.me/tpn/bokutachi/ep11.html)  | 
+| [EP12](http://tuilakhanh.me/tpn/bokutachi/ep12.html)  | 
+| [EP13](http://tuilakhanh.me/tpn/bokutachi/ep13.html)  | 
