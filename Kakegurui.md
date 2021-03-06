@@ -3,7 +3,7 @@
 | Host          | Định dạng          |
 | ------------- |:------------------:|
 | [Google Drive](https://drive.google.com/drive/folders/1KOwoQDFu_myRRQZDLX80li6HNWMIQeC8?usp=sharing)  | 1080p HEVC SoftSub |
-| [Fshare]() (Đang cập nhập)  	| 1080p HEVC SoftSub |
+| [Fshare](https://www.fshare.vn/folder/MFZEQAU5UL7Y?token=1615052751) 	| 1080p HEVC SoftSub |
 | [Nyaa]() (Đang cập nhập)         | 1080p HEVC SoftSub |
 | [OneDrive]() (Đang cập nhập)      | 1080p HEVC SoftSub |
 
