@@ -4,7 +4,7 @@
 | ------------- |:------------------:|
 | [Google Drive](https://drive.google.com/drive/folders/1brlDykKVwmXgGBduaqvFLtjZFCkSMQWE?usp=sharing)  | 1080p HEVC SoftSub |
 | [Fshare](https://www.fshare.vn/folder/7WRTJWQNSR8H)     	| 1080p HEVC SoftSub |
-| [Nyaa]()          | 1080p HEVC SoftSub |
+| [Nyaa](https://nyaa.si/view/1356032)          | 1080p HEVC SoftSub |
 | [OneDrive]()     | 1080p HEVC SoftSub |
 
 
