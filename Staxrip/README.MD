@@ -1,3 +1,7 @@
+__Mở Staxrip và chọn dòng số 2__
+
+![0](https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/Staxrip/Screenshot_0.png?raw=true)
+
 __Kéo Thả File vào Staxrip__
 
 ![1](https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/Staxrip/Screenshot_1.png?raw=true)
