@@ -4,8 +4,7 @@
 | ------------- |:------------------:|
 | [Google Drive]() (Tạm Khóa) | Sưu Tầm |
 | [Fshare](https://www.fshare.vn/folder/8L4HTGFK885P?token=1619960253)     	| Sưu Tầm |
-| [Odrive](https://www.odrive.com/s/df19fa65-bb25-416b-b250-ec4201bbab89-608fff07)          | Sưu Tầm |
-| [OneDrive]() (Đang cập nhập)     | Sưu Tầm |
+| [OneDrive](https://bbvn-my.sharepoint.com/:f:/g/personal/nopromises20_office_com_se/EqJ-JNJ93e9Mug9cE0cw3lwB0lYVEs_A7aE3JY0DcWCQ0g?e=IGfuOX)     | Sưu Tầm |
 
 
 ### **Link xem Online Conan**
