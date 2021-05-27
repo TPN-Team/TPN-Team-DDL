@@ -10,16 +10,16 @@
 **Hướng dẫn sử dụng**
 
 — Chạy tool easyavs2bdnxml
-![1](https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/.SUP_guide/Screenshot_1.png?raw=true)
+![1](https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/.SUP%20guide/Screenshot_1.png?raw=true)
 
 — Thêm file .ass và chọn vị trí lưu
-![2]((https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/.SUP_guide/Screenshot_2.png?raw=true)
+![2](https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/.SUP%20guide/Screenshot_2.png?raw=true)
 
 — Sau đó ấn nút được đánh dấu để bắt đầu tạo file .SUP
-![3]((https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/.SUP_guide/Screenshot_3.png?raw=true)
+![3](https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/.SUP%20guide/Screenshot_3.png?raw=true)
 
 — Sau khi tool chạy xong file .SUP sẽ ở folder vừa được tạo.
-![4]((https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/.SUP_guide/Screenshot_4.png?raw=true)
+![4](https://github.com/tuilakhanh/TPN-Fansub-Download-Link/blob/master/.SUP%20guide/Screenshot_4.png?raw=true)
 
 **Lưu ý**
 
