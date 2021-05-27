@@ -5,6 +5,7 @@
 **Hướng cài đặt**
 
 — Đối với AviSynth tải về mở lên next, next, next...
+
 — Đối với easyavs2bdnxml tải về giải nén.
 
 **Hướng dẫn sử dụng**
