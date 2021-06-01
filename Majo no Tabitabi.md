@@ -4,7 +4,8 @@
 | ------------- |:------------------:|
 | [Google Drive](https://drive.google.com/drive/folders/1FB7ZJT9RsYjaIVHNXtMZLpPc8-3q0ghU?usp=sharing)  | 1080p HEVC SoftSub |
 | [Google Drive](https://drive.google.com/drive/folders/1PPZrYZzhrU2A3nHzmYVfhJKDvsTAqb01?usp=sharing)  | 1080p HEVC HardSub |
-| [Fshare]() (Đang cập nhập)	| 1080p HEVC SoftSub |
+| [Fshare](https://www.fshare.vn/folder/N9YWDRK6XVCQ?token=1622525056) 	| 1080p HEVC SoftSub |
+| [Fshare](https://www.fshare.vn/folder/6TARNPDGTGMH?token=1622525066) 	| 1080p HEVC HardSub |
 | [Nyaa](https://nyaa.si/view/1386522)        | 1080p HEVC SoftSub |
 | [OneDrive]() (Đang cập nhập)      | 1080p HEVC SoftSub |
 
