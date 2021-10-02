@@ -2,4 +2,4 @@
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
-| [Google Drive](https://drive.google.com/drive/folders/1l1pjfIbX-RK3tJmyHXJKsCmCpS7Mocd7?usp=sharing)  | 1080p HEVC SoftSub |
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/LH1/)  | 1080p HEVC SoftSub |

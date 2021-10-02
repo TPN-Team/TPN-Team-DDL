@@ -2,8 +2,8 @@
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
-| [Google Drive](https://drive.google.com/drive/folders/1t_q1kOOUJtB5r0-0UAN7h2wSC_iMa4MR?usp=sharing)  | 1080p HEVC SoftSub |
-| [Google Drive](https://drive.google.com/drive/folders/1SSi-eEYSamRU5LuNOllimqgA9_aP7Pt0?usp=sharing)  | 1080p HEVC SoftSub (Bản Nặng)|
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Emiya-san%20Chi%20no%20Kyou%20no%20Gohan/)  | 1080p HEVC SoftSub |
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Emiya-san%20Chi%20no%20Kyou%20no%20Gohan%20[N%E1%BA%B7ng]/)  | 1080p HEVC SoftSub (Bản Nặng)|
 | [Fshare]() (Đang cập nhập) 	| 1080p HEVC SoftSub |
 | [Nyaa]()    (Đang cập nhập)     | 1080p HEVC SoftSub |
 | [OneDrive]() (Đang cập nhập)      | 1080p HEVC SoftSub |

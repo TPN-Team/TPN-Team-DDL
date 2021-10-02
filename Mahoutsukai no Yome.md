@@ -2,7 +2,7 @@
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
-| [Google Drive](https://drive.google.com/drive/folders/1bIFg4eKcnn0WUDX9D1GPrRc25DOyvk9X?usp=sharing)  | 1080p HEVC SoftSub |
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Mahoutsukai%20no%20Yome/)  | 1080p HEVC SoftSub |
 | [Fshare]() (Đang cập nhập) 	| 1080p HEVC SoftSub |
 | [Nyaa]() (Đang cập nhập)         | 1080p HEVC SoftSub |
 | [OneDrive]() (Đang cập nhập)      | 1080p HEVC SoftSub |

@@ -2,7 +2,7 @@
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
-| [Google Drive](https://drive.google.com/drive/folders/1sW3I0zxeS9AVzhbMexK8ic6ra089s4rR?usp=sharing)  | 1080p HEVC SoftSub |
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Busou%20Shoujo%20Machiavellianism[Fuyu]/)  | 1080p HEVC SoftSub |
 | [Fshare]() (Đang cập nhập) 	| 1080p HEVC SoftSub |
 | [Nyaa]()    (Đang cập nhập)     | 1080p HEVC SoftSub |
 | [OneDrive]() (Đang cập nhập)      | 1080p HEVC SoftSub |

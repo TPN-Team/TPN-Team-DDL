@@ -2,5 +2,5 @@
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
-| [Google Drive](https://drive.google.com/drive/folders/16ZkH9DUu4SU6rblpB4dMZwAIVhAHb3vJ?usp=sharing)  | 1080p AVC SoftSub |
-| [Google Drive](https://drive.google.com/drive/folders/16ZkH9DUu4SU6rblpB4dMZwAIVhAHb3vJ?usp=sharing)  | 1080p HEVC HardSub |
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Isekai%20Maou%20to%20Shoukan%20Shoujo%20no%20Dorei%20Majutsu/Remux/)  | 1080p AVC SoftSub |
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Isekai%20Maou%20to%20Shoukan%20Shoujo%20no%20Dorei%20Majutsu/Hardsub/)  | 1080p HEVC HardSub |

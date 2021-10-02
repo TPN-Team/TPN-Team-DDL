@@ -2,7 +2,7 @@
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
-| [Google Drive](https://drive.google.com/drive/folders/1d5h63ToXGuyIfV17PzRnhy81lB7n91Rr?usp=sharing)  | 1080p HEVC SoftSub |
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Yuragi-sou%20no%20Yuuna-san/)  | 1080p HEVC SoftSub |
 | [Fshare]()  (Đang cập nhập)   	| 1080p HEVC SoftSub |
 | [Nyaa]()   (Đang cập nhập)        | 1080p HEVC SoftSub |
 | [OneDrive]()  (Đang cập nhập)    | 1080p HEVC SoftSub |

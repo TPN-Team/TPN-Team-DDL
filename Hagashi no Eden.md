@@ -2,7 +2,7 @@
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
-| [Google Drive](https://drive.google.com/drive/folders/1yqtbByypp4yNoSVdyIqYHdYlFY8I2GRJ?usp=sharing)  | 1080p HEVC SoftSub |
-| [Fshare]()  (Đang cập nhập)   	| 1080p HEVC SoftSub |
-| [Nyaa]()   (Đang cập nhập)        | 1080p HEVC SoftSub |
-| [OneDrive]()  (Đang cập nhập)    | 1080p HEVC SoftSub |
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Higashi%20no%20Eden/)  | 1080p AVC SoftSub |
+| [Fshare]()  (Đang cập nhập)   	| 1080p AVC SoftSub |
+| [Nyaa]()   (Đang cập nhập)        | 1080p AVC SoftSub |
+| [OneDrive]()  (Đang cập nhập)    | 1080p AVC SoftSub |

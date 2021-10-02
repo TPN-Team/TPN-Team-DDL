@@ -2,7 +2,7 @@
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
-| [Google Drive](https://drive.google.com/drive/folders/1yVqg0kjdXe_StIterhU692gt2Fex5ijy?usp=sharing)  | 1080p HEVC SoftSub |
+| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Mikakunin%20de%20Shinkoukei%20[Crazy-Sol%20-%20KOGA]/)  | 1080p HEVC SoftSub |
 | [Fshare]()  (Đang cập nhập)   	| 1080p HEVC SoftSub |
 | [Nyaa]()   (Đang cập nhập)        | 1080p HEVC SoftSub |
 | [OneDrive]()  (Đang cập nhập)    | 1080p HEVC SoftSub |
