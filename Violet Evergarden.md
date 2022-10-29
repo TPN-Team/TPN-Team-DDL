@@ -1,4 +1,4 @@
-### **Link download Violet Evergraden Blu-ray**
+### **Link download Violet Evergarden Blu-ray**
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
