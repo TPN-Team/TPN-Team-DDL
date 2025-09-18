@@ -2,7 +2,4 @@
 
 | Host          | Định dạng          |
 | ------------- |:------------------:|
-| [TPN Web](https://ddl.tpnteam.workers.dev/0:/Tokyo%20Magnitude%208.0/)  | 1080p AVC SoftSub |
-| [Fshare]()  (Đang cập nhập)   	| 1080p AVC SoftSub |
-| [Nyaa]()   (Đang cập nhập)        | 1080p AVC SoftSub |
-| [OneDrive]()  (Đang cập nhập)    | 1080p AVC SoftSub |
+| [Nyaa](https://nyaa.si/view/2011132)      | 1080p AVC SoftSub |
